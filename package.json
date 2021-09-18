@@ -1,0 +1,23 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "create a sample Rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesomecoder233/RESTAPI.git"
+  },
+  "keywords": [
+    "Rest",
+    "API"
+  ],
+  "author": "Arman Keivin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awesomecoder233/RESTAPI/issues"
+  },
+  "homepage": "https://github.com/awesomecoder233/RESTAPI#readme"
+}
